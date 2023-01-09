@@ -1,12 +1,12 @@
 {
-   "status":false,
+   "status":true,
    "status_check_google":true,
    "start_day_check":"20",
    "end_day_check":"26",
    "check_installation":true,
    "day_of_installation":0,
-   "link_wa":"https://wa.me/62851111111",
-   "master_url":"https://google.com",
+   "link_wa":"https://api.whatsapp.com/send/?phone=%2B6285926920678&text&type=phone_number&app_absent=0",
+   "master_url":"https://xeniatoto.com/?ref=reffapk",
    "second_url":"https://xenideveloper.github.io/xen_demo_mahjong_ways2/",
    "demo_url":"https://xenideveloper.github.io/xen_demo_mahjong_ways2/",
    "rtp_url":"https://google.com"
